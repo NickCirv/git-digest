@@ -1,0 +1,28 @@
+{
+  "name": "git-digest",
+  "version": "1.0.0",
+  "description": "Beautiful daily/weekly git activity digests. Auto-generated standup summaries.",
+  "type": "module",
+  "bin": {
+    "git-digest": "./index.js",
+    "gd": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "git",
+    "digest",
+    "standup",
+    "ai"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/git-digest"
+  }
+}
