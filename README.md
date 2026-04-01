@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # git-digest
 > Beautiful daily/weekly git activity digests. Auto-generated standup summaries.
 
